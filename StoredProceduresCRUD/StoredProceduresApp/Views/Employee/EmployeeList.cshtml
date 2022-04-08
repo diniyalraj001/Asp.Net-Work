@@ -1,0 +1,85 @@
+﻿@using StoredProceduresApp.Models
+@model StoredProceduresApp.Models.AllModel
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <div class="row">
+        <div class="col-lg-12" style=" margin-top:10px; margin-bottom:10px;">
+            @{
+
+                if (TempData["SuccessMsg"] != null)
+                {
+                    <h3 style="background:green;">@TempData["SuccessMsg"]</h3>
+                }
+                if (TempData["ErrorMsg"] != null)
+                {
+                    <h3 style="background:red;">@TempData["ErrorMsg"]</h3>
+                }
+            }
+        </div>
+    </div>
+</div>
+
+
+<div class="container p-3 ">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary"> Employee List</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Employee" asp-action="AddEmployee" class="btn btn-outline-info">
+                <i class="bi bi-plus-square"></i>   Add Employee
+            </a>
+             
+        </div>
+    </div>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Employee ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Position</th>
+            <th scope="col">Gender</th>
+            <th scope="col">Salary</th>
+            <th scope="col">Action</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            if (Model.employeesList != null && Model.employeesList.Count > 0)
+            {
+                foreach (var item in Model.employeesList)
+                {  
+                    <tr> 
+                        <td>@item.EmployeeID</td>
+                        <td>@item.Name</td>
+                        <td>@item.Position</td>
+                        <td>@item.Gender</td>
+                        <td>@item.Salary</td>
+                        <td>
+                            <a asp-controller="Employee" onclick="return ConfirmDelete()" asp-action="DeleteEmployee" class="btn btn-outline-danger mx-2" asp-route-id="@item.EmployeeID">Delete</a>
+                            <a asp-controller="Employee" asp-action="EditEmployee" class="btn btn-outline-secondary mx-2" asp-route-id="@item.EmployeeID">Edit</a>
+                        </td>
+
+                    </tr>
+                }
+            }
+        }
+    </tbody>
+</table>
+
+<script type="text/javascript">  
+    function ConfirmDelete() {  
+        if(confirm("Are you sure to want to Delete?")==true)  
+           return true;  
+        else  
+            return false;  
+    }  
+</script>

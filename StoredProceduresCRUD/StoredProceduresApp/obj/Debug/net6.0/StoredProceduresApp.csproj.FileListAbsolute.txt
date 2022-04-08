@@ -1,0 +1,198 @@
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\appsettings.json
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.staticwebassets.runtime.json
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.exe
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.deps.json
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.runtimeconfig.json
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.pdb
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.csproj.AssemblyReference.cache
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.AssemblyInfoInputs.cache
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.AssemblyInfo.cs
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.csproj.CoreCompileInputs.cache
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.RazorAssemblyInfo.cache
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.RazorAssemblyInfo.cs
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\scopedcss\bundle\StoredProceduresApp.styles.css
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\scopedcss\projectbundle\StoredProceduresApp.bundle.scp.css
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\refint\StoredProceduresApp.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.pdb
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.genruntimeconfig.cache
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\ref\StoredProceduresApp.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Dapper.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\YashTalaicheIntern\source\repos\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.csproj.CopyComplete
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\appsettings.Development.json
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\appsettings.json
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.staticwebassets.runtime.json
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.exe
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.deps.json
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.runtimeconfig.json
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.pdb
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Azure.Core.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Azure.Identity.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Dapper.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Humanizer.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.csproj.AssemblyReference.cache
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.AssemblyInfoInputs.cache
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.AssemblyInfo.cs
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.csproj.CoreCompileInputs.cache
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.RazorAssemblyInfo.cache
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.RazorAssemblyInfo.cs
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\scopedcss\bundle\StoredProceduresApp.styles.css
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\scopedcss\projectbundle\StoredProceduresApp.bundle.scp.css
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.csproj.CopyComplete
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\refint\StoredProceduresApp.dll
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.pdb
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.genruntimeconfig.cache
+D:\C#\StoredProceduresApp\StoredProceduresApp\obj\Debug\net6.0\ref\StoredProceduresApp.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\appsettings.json
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.staticwebassets.runtime.json
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.exe
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.deps.json
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.runtimeconfig.json
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\StoredProceduresApp.pdb
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Dapper.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.csproj.AssemblyReference.cache
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.AssemblyInfoInputs.cache
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.AssemblyInfo.cs
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.csproj.CoreCompileInputs.cache
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.RazorAssemblyInfo.cache
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.RazorAssemblyInfo.cs
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\scopedcss\bundle\StoredProceduresApp.styles.css
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\scopedcss\projectbundle\StoredProceduresApp.bundle.scp.css
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.csproj.CopyComplete
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\refint\StoredProceduresApp.dll
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.pdb
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\StoredProceduresApp.genruntimeconfig.cache
+C:\Users\DiniyalRajRahangdale\OneDrive - Zehntech Technologies Private Limited\Desktop\YASH\ecc_evaluation_task\StoredProceduresCRUD\StoredProceduresApp\obj\Debug\net6.0\ref\StoredProceduresApp.dll
